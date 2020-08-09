@@ -5,3 +5,5 @@
  * Recursive Sum
  * Zombie in matrix
  * Search Suggestions System
+ * Reorder Data in Logs
+ * Partition Labels
